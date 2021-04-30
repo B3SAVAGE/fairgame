@@ -599,6 +599,7 @@ developers.
 set PIPENV_VENV_IN_PROJECT=1 (Windows) 
 export PIPENV_VENV_IN_PROJECT=1 (Linux/Other)
 ```
+If there are problems with the bot not being able to read the pullout, clear cookies and restart the bot
 
 * Running the bot minimized can cause time out errors due to how Selenium acts with various versions of Chrome. 
 
